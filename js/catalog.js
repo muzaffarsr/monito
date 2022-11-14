@@ -1,0 +1,58 @@
+const CATALOG = [
+	{
+		img: 'img/Puppy/puppy-1.jpg',
+		name: 'MO231 - Porneranian White',
+		gene: 'Male',
+		age: '02 months',
+		price: 6900000,
+	},
+	{
+		img: 'img/Puppy/puppy-1.jpg',
+		name: 'MO231 - Porneranian White',
+		gene: 'Male',
+		age: '02 months',
+		price: 6900000,
+	},
+	{
+		img: 'img/Puppy/puppy-1.jpg',
+		name: 'MO231 - Porneranian White',
+		gene: 'Male',
+		age: '02 months',
+		price: 6900000,
+	},
+	{
+		img: 'img/Puppy/puppy-1.jpg',
+		name: 'MO231 - Porneranian White',
+		gene: 'Male',
+		age: '02 months',
+		price: 6900000,
+	},
+	{
+		img: 'img/Puppy/puppy-1.jpg',
+		name: 'MO231 - Porneranian White',
+		gene: 'Male',
+		age: '02 months',
+		price: 6900000,
+	},
+	{
+		img: 'img/Puppy/puppy-1.jpg',
+		name: 'MO231 - Porneranian White',
+		gene: 'Male',
+		age: '02 months',
+		price: 6900000,
+	},
+	{
+		img: 'img/Puppy/puppy-1.jpg',
+		name: 'MO231 - Porneranian White',
+		gene: 'Male',
+		age: '02 months',
+		price: 6900000,
+	},
+	{
+		img: 'img/Puppy/puppy-1.jpg',
+		name: 'MO231 - Porneranian White',
+		gene: 'Male',
+		age: '02 months',
+		price: 6900000,
+	},
+]
