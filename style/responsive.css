@@ -1,0 +1,6 @@
+@media only screen and (max-width: 1920px) {
+	.card__container-media {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+}
